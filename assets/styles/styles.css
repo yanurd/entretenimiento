@@ -11,6 +11,7 @@ input {
 #menuToggle ul {
   list-style-type: none;
   margin: 0;
+  margin-left: 20%;
   padding: 0;
   overflow: hidden;
   position: fixed;
