@@ -195,6 +195,9 @@ h1 {
   #fixing{
     margin-left: -20px;
   }
+  .problematic{
+    margin-left: -15px;
+  }
   .content--first,
   .content--second,
   .content--third,
