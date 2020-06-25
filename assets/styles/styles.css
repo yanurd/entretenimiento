@@ -195,9 +195,7 @@ h1 {
   #fixing{
     margin-left: -20px;
   }
-  .problematic{
-    margin-left: -15px;
-  }
+
   .content--first,
   .content--second,
   .content--third,
@@ -215,7 +213,7 @@ h1 {
 
   .content--second__img div img {
     width: 300px;
-    margin-left: -35px;
+    margin-left: -50px;
   }
   .content--third__img div img {
     width: 200px;
