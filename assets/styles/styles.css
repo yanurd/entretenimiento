@@ -192,7 +192,9 @@ h1 {
   .cambiar{
     width: 260px;
   }
-
+  #fixing{
+    margin-left: -20px;
+  }
   .content--first,
   .content--second,
   .content--third,
